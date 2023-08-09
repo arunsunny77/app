@@ -1,2 +1,2 @@
 # app
-simple node js server for API language translations
+simple node js server API for language translations
